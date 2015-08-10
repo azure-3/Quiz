@@ -6,8 +6,8 @@
 //  Copyright (c) 2012年 慶應義塾大学. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface QuizTests : SenTestCase
+@interface QuizTests : XCTestCase
 
 @end
